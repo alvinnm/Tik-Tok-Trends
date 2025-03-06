@@ -1,2 +1,2 @@
 # Tik-Tok-Trends
-Pulls and searches through current TikTok trends using TikTokAPI
+Try running this in your terminal (with Python installed) to view current TikTok trends
